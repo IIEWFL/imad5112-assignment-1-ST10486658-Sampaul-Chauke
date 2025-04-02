@@ -9,21 +9,21 @@ https://youtu.be/kyv3t8p9dOw
 (Purpose of The App)
 
 This app was designed to help Hera (which is our close friend) decide on what to eat on busy days.
-This helps her simplify meal choices based on the time of dayy.
-This app comes in handy as it is said that she need a easy to use Android app that suggests meals options based on breakfast, lunch or dinner time.
-This helps her quickly decide on a meal which also makes it fun to use
+This helps her simplify meal choices based on the time of day.
+This app comes in handy as it is said that she need a easy to use Android app that suggests meal options based on breakfast, lunch or dinner time.
+This helps her quickly decide on a meal which also makes it fun to use.
 
 (Design Conisderations)
 
-TextView, was placed to display the header title which "Welcome to YumRush" so that users can get an idea of what the application will be used for.
+TextView, was placed to display the header title which is "Welcome to YumRush" so that users can get an idea of what the application will be used for.
 
-EditText, was placed as a andriod hint so that user can Input text here such as morning, mid-morning, afternoon, mid-afternoon, dinner and mid-dinner".
+EditText, was placed as a android hint so that user can Input text here such as morning, mid-morning, afternoon, mid-afternoon, dinner and mid-dinner".
 
-Button(Meal Check), this was placed so that userInput on the EditText will be check then feedback will be either invaild or it will select from the suggestFood and return output which goes in hand with what the user typed.
+Button(Meal Check), this was placed so that userInput on the EditText will be check then feedback will be either invalid or it will select from the suggestFood and return output which goes in hand with what the user typed.
 
-TextView (Display), this is just an output which user will see once they have time the time of day and then the output is displayed here.
+TextView (Display), this is just an output which user will be able to see what the app suggested for the user to eat depending on what time of day.
 
-Button(Clear), this button was placed here so that it could be able to clear the input which the user typed and the output which was displayed in the TextView(Display).
+Button(Clear), this button was placed here to clear the input which the user typed and the output which was displayed in the TextView(Display).
 
 (Utilisation of github and github actions)
 
