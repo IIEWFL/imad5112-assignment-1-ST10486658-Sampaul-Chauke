@@ -1,16 +1,20 @@
 (Github link)
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/70UuwkKC)
 
 (Youtube Video Link)
+
 https://youtu.be/kyv3t8p9dOw
 
 (Purpose of The App)
+
 This app was designed to help Hera (which is our close friend) decide on what to eat on busy days.
 This helps her simplify meal choices based on the time of dayy.
 This app comes in handy as it is said that she need a easy to use Android app that suggests meals options based on breakfast, lunch or dinner time.
 This helps her quickly decide on a meal which also makes it fun to use
 
 (Design Conisderations)
+
 TextView, was placed to display the header title which "Welcome to YumRush" so that users can get an idea of what the application will be used for.
 
 EditText, was placed as a andriod hint so that user can Input text here such as morning, mid-morning, afternoon, mid-afternoon, dinner and mid-dinner".
@@ -22,6 +26,7 @@ TextView (Display), this is just an output which user will see once they have ti
 Button(Clear), this button was placed here so that it could be able to clear the input which the user typed and the output which was displayed in the TextView(Display).
 
 (Utilisation of github and github actions)
+
 Right click the folder which is the app's Folder
 Click open Git Bash here
 Type "git init"
@@ -32,6 +37,7 @@ Type "git pull origin main --allowunrelated-histories"
 Type "git push origin main"
 
 (Images and Screenshot of the app)
+
 ![image](https://github.com/user-attachments/assets/fc9babac-14f5-494f-abc6-44cc16393383)
 ![image](https://github.com/user-attachments/assets/5e2a4e3b-4b85-420a-a642-f3583c0f77cd)
 ![image](https://github.com/user-attachments/assets/12ca1f6a-f31a-45fe-8078-b72f096bb0ea)
